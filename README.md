@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
-![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragya-chauhan&show_icons=true&theme=radical&hide_border)
+![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragya-chauhan&show_icons=true&theme=radical&hide_border=true)
 
 # Todoist Stats
 
