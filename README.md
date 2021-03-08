@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img src="https://github-readme-linkedin.vercel.app/experience?username=pragyachauhan" />
+<img src = "https://github.com/pragya-chauhan/pragya-chauhan/blob/main/header.png">
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
