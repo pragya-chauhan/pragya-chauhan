@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{pragya-chauhan}/count.svg)
+
 # Todoist Stats
 
 <!-- TODO-IST:START -->
