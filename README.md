@@ -12,7 +12,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: pragyasinghchauhan13@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have 2 YouTube channels.
+- ⚡ Fun fact: I have 3 YouTube channels.
 
 
 
