@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Games.
 - 🌱 I’m currently learning Algorithms from UC San Diego.
 - 👯 I’m looking to collaborate on any cool project idea!
-- 🤔 I’m looking for help with Game Development
+- 🤔 I’m looking for help with breaking into the Game Development industry
 - 💬 Ask me about anything!
 - 📫 How to reach me: pragyasinghchauhan13@gmail.com
 - 😄 Pronouns: She/Her
