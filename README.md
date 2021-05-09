@@ -1,4 +1,4 @@
-<img src = "https://github.com/pragya-chauhan/pragya-chauhan/blob/main/header.png">
+Hey! This is Pragya.
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
