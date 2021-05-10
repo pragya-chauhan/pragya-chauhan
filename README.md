@@ -18,6 +18,7 @@ Find me on @Medium https://pragyachauhan.medium.com/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 3 YouTube channels.
 
+</p>
 
 
 <!--
@@ -34,4 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<\p>
