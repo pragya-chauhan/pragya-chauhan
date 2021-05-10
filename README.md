@@ -1,3 +1,4 @@
+<p align="center">
 Hey! This is Pragya.
 
 Find me on @Medium https://pragyachauhan.medium.com/
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<\p>
