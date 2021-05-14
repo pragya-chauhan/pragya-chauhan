@@ -9,7 +9,7 @@ Find me on @Medium https://pragyachauhan.medium.com/
 ![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragya-chauhan&show_icons=true&theme=radical&hide_border=true)
 
 
-- 🔭 I’m currently working on Games.
+- 🔭 I’m currently working on Games and leanring Java.
 - 🌱 I’m currently learning Algorithms from UC San Diego.
 - 👯 I’m looking to collaborate on any cool project idea!
 - 🤔 I’m looking for help with breaking into the Game Development industry
